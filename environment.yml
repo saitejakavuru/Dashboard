@@ -1,0 +1,12 @@
+channels:
+- pyviz
+
+packages:
+- jupyter-panel-proxy
+
+dependencies:
+- numpy
+- pandas
+- panel
+- folium
+- matplotlib
